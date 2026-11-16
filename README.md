@@ -16,7 +16,7 @@ A private Telegram bot for a personal scheduling assistant built on a [Claude Ma
 |---|---|
 | `/today` | Send today's plan now |
 | `/morning HH:MM` | Set the morning plan time (24-hour), or `/morning off` to stop it |
-| `/tz Zone` | Set your time zone, e.g. `/tz Asia/Singapore` |
+| `/tz Zone` | Set my time zone, e.g. `/tz Asia/Singapore` |
 | `/settings` | Show the current time, time zone and agent session |
 | `/new` | Start a blank agent session (**this loses the tracker**) |
 
