@@ -1,0 +1,11 @@
+# never upload secrets or local-only state
+.env
+.venv/
+recovered/
+old_session_history.md
+sessions.json
+settings.json
+.session_id
+bot_v1_backup.py
+__pycache__/
+*.tmp
